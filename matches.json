@@ -1,1 +1,18 @@
-
+[
+  { 
+     "Descrição": "Campeonato Carioca 2022",
+     "Local": {
+       "Nome": "Maracanã",
+       "Imagem":  "TODO"
+       },
+      "Mandante": {
+        "Nome": "Flamengo",
+        "Força": 5,
+        "Imagem": "TODO"
+      }
+      "Visitante": {
+        "Nome": "Vasco",
+        "Força": 1,
+        "Imagem": "TODO"
+  }
+]
