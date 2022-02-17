@@ -9,10 +9,11 @@
         "Nome": "Flamengo",
         "Força": 5,
         "Imagem": "TODO"
-      }
+      },
       "Visitante": {
         "Nome": "Vasco",
         "Força": 1,
         "Imagem": "TODO"
+  }
   }
 ]
