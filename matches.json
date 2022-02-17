@@ -3,7 +3,7 @@
      "Descrição": "Campeonato Carioca 2022",
      "Local": {
        "Nome": "Maracanã",
-       "Imagem":  "TODO"
+       "Imagem":  "https://logodownload.org/wp-content/uploads/2016/09/flamengo-logo-0.png"
        },
       "Mandante": {
         "Nome": "Flamengo",
@@ -13,7 +13,7 @@
       "Visitante": {
         "Nome": "Vasco",
         "Força": 1,
-        "Imagem": "TODO"
+        "Imagem": "https://logodownload.org/wp-content/uploads/2016/09/vasco-logo-0.png"
   }
  }
 ]
